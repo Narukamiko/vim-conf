@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/asuka/Documents/Repository/kaldi/egs/wsj/s5/steps/nnet3/nnet3_libs'
+let g:netrw_dirhist_2='/home/asuka/Documents/Repository/py-faster-rcnn'
+let g:netrw_dirhist_3='/home/asuka/.vim'
+let g:netrw_dirhist_4='/home/asuka/.vimperator'
